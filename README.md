@@ -144,8 +144,7 @@ Being able to read only Braille would be a dependence on touch.
 For me, developmental disability can be understood as a dependence on structures that allow prediction of how the world behaves.
 This is not a generalization, but an interpretation grounded in my own experience.
 
-About Braille
-
+## About Braille
 My interest in Braille began in 2025, when my disability certificate was classified as Grade 2.
 It was a time when I began thinking more deeply about my body and sensory perception.
 
@@ -158,7 +157,7 @@ Braille is a grammar that requires the body in order to be read.
 Meaning emerges with delay, through the time of touch.
 As of 2026, I am studying Braille and considering how it might be written or represented on a screen.
 
-Finally, About This Repository
+## Finally, About This Repository
 
 In this repository, the same day and the same events are written in Japanese, French, and C.
 They are not translated.
@@ -220,7 +219,7 @@ bool woke_up = true;
 Bien que le sens paraisse identique, chaque grammaire ne lui permet pas d’exister de la même manière.
 J’appelle « collision » l’état dans lequel ce décalage devient visible.
 
-Moi et les grammaires
+## Moi et les grammaires
 
 Le japonais est ma langue maternelle.
 Il permet à l’expérience d’exister tout en conservant de l’ambiguïté et des zones ouvertes.
@@ -237,14 +236,14 @@ Sachant que de nombreux langages modernes trouvent leur origine dans le C, je so
 
 En programmation, une « fonction » est comparable à l’expression « préparer du thé » : un ensemble d’étapes rassemblées sous un seul nom. Dans des langages plus pratiques, il suffit d’écrire « préparer du thé ». En C, il faut décrire chaque étape : faire bouillir l’eau, ajouter les feuilles, verser.
 
-La grammaire comme déplacement du regard
+## La grammaire comme déplacement du regard
 
 En 2022, à l’âge de 30 ans, j’ai reçu un diagnostic de TDAH et de TSA.
 Cela m’a permis de comprendre que j’avais expérimenté le monde non selon la grammaire de la majorité, mais selon celle d’une minorité.
 
 Les sensations de décalage que je ne parvenais pas à formuler ont commencé à s’organiser non comme un manque, mais comme une autre grammaire.
 
-À propos de la métaphore de la dépendance
+## À propos de la métaphore de la dépendance
 
 De mon point de vue, perdre la vue révèle une dépendance préalable à la vision.
 Ne pouvoir lire que le braille serait une dépendance au toucher.
@@ -252,7 +251,7 @@ Ne pouvoir lire que le braille serait une dépendance au toucher.
 Pour moi, le handicap développemental peut être compris comme une dépendance à des structures permettant de prévoir le comportement du monde.
 Il ne s’agit pas d’une généralisation, mais d’une interprétation issue de mon expérience personnelle.
 
-À propos du braille
+## À propos du braille
 
 Mon intérêt pour le braille a commencé en 2025, lorsque mon certificat de handicap a été classé en catégorie 2.
 C’était un moment où je réfléchissais davantage à mon corps et à mes perceptions.
@@ -266,7 +265,7 @@ Le braille est une grammaire qui exige le corps pour être lue.
 Le sens apparaît avec retard, dans le temps du toucher.
 En 2026, je suis encore en train d’apprendre le braille et de réfléchir à la manière dont il peut être représenté à l’écran.
 
-Enfin, à propos de ce dépôt
+## Enfin, à propos de ce dépôt
 
 Dans ce dépôt, une même journée et un même événement sont décrits en japonais, en français et en C.
 Ils ne sont pas traduits.
