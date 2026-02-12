@@ -40,7 +40,7 @@ bool woke_up = true;
 
 意味は同じはずなのにそれぞれの文法では、同時に成立しないこのズレが可視化される状態を私は「衝突」と呼ぶ。
 
-私と文法について
+## 私と文法について
 日本語は私の母国語である。曖昧さや余白を含んだままでも、経験として成立する言語だ。
 フランス語は、短大で仏文科を卒業し学んできた言語である。性・数・一致といった厳密な構造に、私は安心感を覚える。 少しずつでいいから、自分に起こった出来事くらいは、フランス語として正確に記述したいと思っている。
 
@@ -49,21 +49,22 @@ bool woke_up = true;
 
 *関数とは、「お茶を入れる」のように、細かい手順を一つの名前にまとめたものだ。便利な言語では「お茶を入れる」と言えば済むが、 C言語では「湯を沸かし、茶葉を入れ、注ぐ」と一つずつ書く必要がある。
 
-視点の転換としての文法
+## 視点の転換としての文法
+
 2022年、30歳のときにADHDとASDの診断を受けた。それをきっかけに、自分が多数派の文法ではなく、少数派の文法で世界を経験してきたことを自覚するようになった。
 これまで言語化できなかった違和感は、欠落ではなく、別の文法として整理され始めている。
 
-依存という比喩について
+## 依存という比喩について
 私の感覚として、視力を失うことは、視覚への依存があった。点字しか読めないことは、触覚への依存である。
 私にとって発達障害は、世界がどのように振る舞うかを予測できる構造への依存である。これは一般化ではなく、あくまで私自身の経験にもとづく理解である。
 
-点字について
+## 点字について
 点字に興味を持ち始めたのは、2025年に障害者手帳の等級が2級となり、自分の身体や感覚について考える時間が増えたことがきっかけである。
 人は生きていれば、いずれ緑内障か白内障のどちらかになり、ある日、視力を失う可能性があることを知った。
 生きながらに視力を失うことは、どれほどつらいのか。ある物語の一節に背中を押され、私は点字を学ぶことを決めた。
 点字は、読むために身体を必要とする文法である。意味は、触れる時間の中で遅れて立ち上がる。2026年現在は点字を勉強中であり、画面上で記述する方法を思案中。
 
-最後にこのリポジトリについて
+## 最後にこのリポジトリについて
 このリポジトリでは、同じ一日、同じ出来事を、日本語・フランス語・C言語で記述する。それらは翻訳されない。 一致しないまま、並べられる。書けない日、空白の日、エラーが残る日も含めて、それらすべてが**「日常が同時に成立しなかった記録」**である。
 
 ここに書かれている内容は、私の理解の途中段階によるものである。
@@ -77,17 +78,13 @@ The content recorded in this repository is not based on academic definitions or 
 The metaphors and ideas used here are hypotheses intended to help me understand my own linguistic sensibilities and everyday discomforts. They are not always correct and may contain errors or biases.
 
 Therefore, these statements are not fixed conclusions. They are written with the assumption that they may be updated through new experiences or insights.
-
 If you find inaccuracies, better expressions, or alternative perspectives, I welcome your comments.
-
 However, I would appreciate it if such feedback were offered not to negate anyone, but to move the dialogue forward — conveyed in a gentlemanly or ladylike manner.
-
 I leave these records not to compete over correctness, but as an ongoing process toward understanding differences.
 
 ## What Is the Exhibition of Grammatical Collision?
 
 When the same event is described through multiple grammatical systems, there are moments when the meaning seems identical, yet the conditions of its formation do not align.
-
 This repository is an attempt to document and visualize that very misalignment.
 
 Example: “I woke up.”
@@ -117,8 +114,7 @@ bool woke_up = true;
 Although the meaning appears identical, each grammar does not allow it to exist in the same way.
 I call the state in which this discrepancy becomes visible “collision.”
 
-About Me and Grammar
-
+## About Me and Grammar
 Japanese is my native language.
 It allows experience to exist even while containing ambiguity and open space.
 
@@ -134,8 +130,7 @@ Knowing that many modern languages trace their origins to C, I wish to deepen my
 
 In programming, a “function” is like saying “make tea” — a set of small steps gathered under one name. In more convenient languages, one can simply say “make tea.” In C, however, one must write each step: boil the water, add the tea leaves, pour it.
 
-Grammar as a Shift in Perspective
-
+## Grammar as a Shift in Perspective
 In 2022, at the age of 30, I was diagnosed with ADHD and ASD.
 Through this, I came to recognize that I had been experiencing the world not through the grammar of the majority, but through that of a minority.
 
