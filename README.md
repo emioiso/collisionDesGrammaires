@@ -283,6 +283,7 @@ L’ensemble constitue l’archive de moments où le quotidien ne s’est pas co
 Ce qui est écrit ici correspond à l’état actuel de ma compréhension.
 Je suis consciente qu’il peut contenir des ignorances ou des oublis.
 Si de nouveaux apprentissages ou des remarques pertinentes me conduisent à juger qu’une révision est nécessaire, je procéderai à une mise à jour.
+
 ÉMI OISO
 
 ⠕⠕⠊⠎⠕　⠑⠍⠊
