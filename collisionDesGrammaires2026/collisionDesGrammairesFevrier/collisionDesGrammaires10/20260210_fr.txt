@@ -1,0 +1,22 @@
+
+!0700に起きた。
+!YUKIROKUという、とある銭湯の入浴者の記録をするアプリをiOSで作った。
+!アップルストアに審査を出せた。
+!この10日間は苦しいながら楽しく、審査に出せて寝れないほどの達成感があった。　
+!脳みそは疲れたのに、審査に出せたことが嬉しすぎて興奮し、寝れなかった。
+
+Je me suis levée à 7h00.
+
+J’ai développé une application pour iOS appelée YUKIROKU,
+qui consigne les baigneurs d’un certain sentō.
+
+J’ai réussi à la soumettre à l’App Store pour examen.
+Il m’a fallu dix jours pour arriver à cette étape.
+Ces dix jours ont été éprouvants, mais profondément stimulants.
+La joie était si forte que le sommeil ne venait pas.
+
+Mon cerveau était épuisé,
+mais j’étais tellement heureuse d’avoir enfin envoyé l’application
+que j’étais trop excitée pour dormir.
+
+ÉMI　OISO
