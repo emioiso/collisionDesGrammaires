@@ -192,7 +192,7 @@ Cependant, je vous serais reconnaissante de formuler ces remarques non pour nier
 
 Je conserve ces traces non pour rivaliser sur la justesse, mais comme un processus en cours visant à comprendre les différences.
 
-##　Qu’est-ce que l’exposition de la collision des grammaires ?
+## Qu’est-ce que l’exposition de la collision des grammaires ?
 
 Lorsque le même événement est décrit à travers plusieurs systèmes grammaticaux, il arrive que le sens semble identique, alors que les conditions de son existence ne coïncident pas.
 
